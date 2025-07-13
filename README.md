@@ -3,7 +3,7 @@
 A mobile-optimized 2D arcade-style car dodging game built with **Pygame**. Dodge enemy vehicles, survive as long as you can, and beat your high score!
 
 <p align="center">
-  <img src="Screenshot.png" alt="Car Dodge Screenshot" width="480" />
+  <img src="Screenshot.png" alt="Car Dodge Screenshot" width="180" />
 </p>
 
 ---
